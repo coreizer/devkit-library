@@ -63,3 +63,6 @@ if (status == ConnectionStatus.Connected) {
 ## ⚖️ License
 
 This project is licensed under [GPL 3.0](https://opensource.org/license/lgpl-3-0/). See [License File](LICENSE) for details.
+
+# Analytics
+![Alt](https://repobeats.axiom.co/api/embed/d51ad50c424e314165d85d7571df20329862172f.svg "Repobeats analytics image")
