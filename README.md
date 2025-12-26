@@ -24,7 +24,6 @@
     <li><a href="#👷-author">Author</a></li>
     <li><a href="#🌏-stay-in-touch">Stay In Touch</a></li>
     <li><a href="#⚖️-license">License</a></li>
-    <li><a href="#Analytics">Analytics</a></li>
   </ol>
 </details>
 
@@ -65,5 +64,6 @@ if (status == ConnectionStatus.Connected) {
 
 This project is licensed under [GPL 3.0](https://opensource.org/license/lgpl-3-0/). See [License File](LICENSE) for details.
 
-### Analytics
+---
+
 ![Alt](https://repobeats.axiom.co/api/embed/d51ad50c424e314165d85d7571df20329862172f.svg "Repobeats analytics image")
