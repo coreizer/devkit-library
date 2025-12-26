@@ -10,9 +10,9 @@
 純正の開発キットを使用して、簡単に接続する機能を提供します。
 
   <p align="center">
-    <a href="./issues/new">Report Bug</a>
+    <a href="https://github.com/coreizer/devkit-library/issues/new">Report Bug</a>
     ・
-    <a href="./issues/new">Request Feature</a>
+    <a href="https://github.com/coreizer/devkit-library/issues/new">Request Feature</a>
   </p>
 </div>
 
